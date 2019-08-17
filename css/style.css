@@ -1,0 +1,44 @@
+#main-header img{
+  width:100%;
+  height:100%;
+}
+
+.mainr{
+  width:100%;
+}
+
+
+@media (max-width: 768px) {
+ 
+ .mb-resp {
+  
+   margin-bottom:1rem;
+   border: 2px double black;
+   border-radius: 10px;
+  }
+  .mb-resp:hover{
+  background-color: rgb(41, 124, 172);
+}
+
+}
+
+
+
+.bg-black{
+  background: #000;
+}
+
+.port-item :hover{
+
+ 
+ cursor: pointer;
+
+}
+
+#transforming-items :hover{
+  color:grey;
+  opacity: 0.9;
+}
+
+
+
